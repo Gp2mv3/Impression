@@ -1,0 +1,6 @@
+This print utility can print pdf from a Windows computer. It can be useful if you want to print via your local network with a linux computer.
+I built it because my printer is a Dell printer which isn't supporting Linux.
+
+You only have to run print.py in the background with python2.7.
+
+If you want to edit this script feel free. ;)
